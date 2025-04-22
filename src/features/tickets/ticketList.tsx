@@ -1,4 +1,3 @@
-import React from "react";
 import { Card, Tag, List, Typography, Spin, message, Empty, Select, Space } from "antd";
 import { useTickets } from "../../hooks/useTickets";
 import { Ticket } from "../../types/ticket";

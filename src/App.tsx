@@ -1,4 +1,3 @@
-import React from "react";
 import { TicketForm } from "./features/tickets/ticketForm";
 import { TicketList } from "./features/tickets/ticketList";
 import { Layout, Typography, Space, Divider, ConfigProvider } from "antd";
